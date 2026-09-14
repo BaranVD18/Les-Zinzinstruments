@@ -1,0 +1,16 @@
+{
+  "name": "instrument-zoo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Clickable instruments that pop up their noise",
+  "scripts": {
+    "dev": "vite src --open",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "jsdom": "^29.1.1",
+    "vitest": "^5.0.0"
+  }
+}
